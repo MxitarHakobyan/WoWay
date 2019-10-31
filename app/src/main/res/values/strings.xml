@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">WoWay</string>
+    <string name="facebook_app_id">463722037545646</string>
+    <string name="fb_login_protocol_scheme">fb463722037545646</string>
+    <string name="google_maps_api_key">AIzaSyBzwsw3H2eX7iAJfPJ4itJQKHem21y1w0k</string>
+    <string name="requires_gps_message">This application requires GPS to work properly, do you want to enable it?</string>
+    <string name="positive_button_dialog">Yes</string>
+    <string name="cant_make_location_request_message">You can\'t make map requests</string>
+    <string name="permission_denied_message">Permission denied</string>
+    <string name="never_ask_again_toast">Never asking again</string>
+    <string name="no_location_permission_title">Permission needed</string>
+    <string name="no_location_permission_message">This application requires startLatLng\'s permission to work properly, do you want to enable it?</string>
+    <string name="negative_button_dialog">Cancel</string>
+</resources>
